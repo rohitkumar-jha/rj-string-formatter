@@ -1,0 +1,37 @@
+{
+  "_from": "rj-string-formatter",
+  "_id": "rj-string-formatter@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-2Ra9miYyb6ryP5j2UmhV1EnnolvZCClVyuKLxsLLFXcMeGqNX4UiJiWafBH3HWR8cbaq1W9cjDr7/RkhAn5q5A==",
+  "_location": "/rj-string-formatter",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "rj-string-formatter",
+    "name": "rj-string-formatter",
+    "escapedName": "rj-string-formatter",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/rj-string-formatter/-/rj-string-formatter-1.0.1.tgz",
+  "_shasum": "2d608d0de2045d6a01434c2bb8b5bae292a02000",
+  "_spec": "rj-string-formatter",
+  "_where": "C:\\Users\\RJHA1\\Desktop\\RJ\\nj\\test",
+  "author": {
+    "name": "Rohitkumar Jha"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "To format the given string",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "rj-string-formatter",
+  "version": "1.0.1"
+}
