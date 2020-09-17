@@ -1,4 +1,4 @@
-# rj-string-formatter
+# npm i rj-string-formatter
 
 This is the basic string formatter where we can format string currently in two ways
 
